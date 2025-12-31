@@ -10,6 +10,11 @@ Focused on identifying key factors contributing to employee attrition
 
 Designed for HR teams and business stakeholders to support data-driven decisions
 
+# 🖥️ Dashboard Preview
+
+<img width="1332" height="750" alt="Screenshot 2025-12-31 143636" src="https://github.com/user-attachments/assets/8052109c-46fc-4d3a-8559-e29bc15f8b23" />
+
+
 # 📁 Data Description
 
 Employee demographic details (Age, Gender, Education)
@@ -73,3 +78,13 @@ Helps HR teams identify attrition-prone areas
 Supports retention strategy planning
 
 Enables better workforce and compensation decisions
+
+# ✅ Conclusion
+
+This HR Analytics Dashboard provides a clear, data-driven view of employee attrition trends. By visualizing key factors such as experience, salary, job role, and demographics, the dashboard enables HR teams to take proactive actions to improve employee retention and optimize organizational growth.
+
+# 👤 Author
+
+Irfan Ashfaq
+
+HR Analytics
