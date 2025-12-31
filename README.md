@@ -66,7 +66,7 @@ Data Cleaning & Transformation
 
 Data Visualization
 
-🎯 Business Impact
+# 🎯 Business Impact
 
 Helps HR teams identify attrition-prone areas
 
