@@ -1,58 +1,75 @@
-# HR-Analytics-Dashboard-Attrition
-This project is an HR Analytics Dashboard built using Power BI to analyze employee attrition. The dashboard helps HR teams understand why employees leave the organization by analyzing multiple factors such as age, salary, education, job role, experience, and gender.
+# 📊 HR Analytics Dashboard – Employee Attrition Analysis
+Employee attrition is a major challenge for organizations as it impacts productivity, cost, and team stability.
+The goal of this project is to analyze historical HR data and uncover the key reasons behind employee attrition using an interactive Power BI dashboard.
 
-# Objective
-The main objective of this project is to:
-Identify key attrition drivers
-Analyze employee data visually
-Support data-driven HR decisions
-Reduce employee turnover by understanding patterns and trends
+# 🔍 Project Overview
 
-# Data Used
-The dataset includes employee details such as:
-Age
-Gender
-Department
-Job Role
-Education Field
-Salary
-Years of Experience
-Attrition Status
+Built an interactive HR Analytics Dashboard using Power BI
 
-Data was cleaned, modeled, and optimized for reporting in Power BI.
+Focused on identifying key factors contributing to employee attrition
 
-# Analysis Performed
-The dashboard analyzes attrition across multiple dimensions:
-Attrition by Age Group
-Attrition by Education
-Attrition by Salary Slab
-Attrition by Years of Experience
-Attrition by Job Role
-Attrition by Department
-Attrition by Gender
+Designed for HR teams and business stakeholders to support data-driven decisions
 
-#Key Features
-Interactive slicers for department-wise analysis
-KPI cards showing attrition rate and workforce metrics
-Dynamic charts for trend and comparison analysis
-User-friendly layout for non-technical stakeholders
+# 📁 Data Description
 
-# Insights & Observations
-Employees with 0–3 years of experience show higher attrition
-Lower salary ranges contribute significantly to employee exits
-Certain roles have consistently higher attrition rates
-Younger workforce segments are more prone to job changes
+Employee demographic details (Age, Gender, Education)
 
-# Outcome
-This dashboard can help HR teams:
-Identify attrition-prone segments
-Improve retention strategies
-Plan compensation and growth programs
-Make data-driven HR decisions
+Job-related information (Department, Job Role, Experience)
 
-# Tools & Skills Demonstrated
-Power BI Dashboard Design
+Compensation details (Salary Slabs)
+
+Attrition status (Yes/No)
+
+# 📈 Analysis Performed
+
+Attrition analysis by Age Group
+
+Attrition analysis by Education Background
+
+Attrition analysis by Salary Range
+
+Attrition analysis by Years of Experience
+
+Attrition analysis by Job Role
+
+Attrition analysis by Department
+
+Attrition analysis by Gender
+
+# ⭐ Key Features
+
+KPI cards for total employees, attrition count, and attrition rate
+
+Interactive filters for department-wise insights
+
+Dynamic charts and visuals for trend analysis
+
+Clean and user-friendly dashboard layout
+
+# 💡 Key Insights
+
+Higher attrition among employees with 0–3 years of experience
+
+Employees in lower salary bands show higher attrition
+
+Certain job roles have consistently higher exit rates
+
+Younger employees are more likely to switch jobs
+
+# 🛠 Tools & Technologies
+
+Power BI
+
+DAX
+
 Data Cleaning & Transformation
-DAX Measures
-Business Analysis
+
 Data Visualization
+
+🎯 Business Impact
+
+Helps HR teams identify attrition-prone areas
+
+Supports retention strategy planning
+
+Enables better workforce and compensation decisions
